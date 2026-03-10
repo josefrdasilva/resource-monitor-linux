@@ -1,0 +1,10 @@
+data/
+prometheus_data/
+grafana_data/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.exe
+prometheus_data/
+grafana_data/
